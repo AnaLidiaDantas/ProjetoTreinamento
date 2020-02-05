@@ -1,0 +1,26 @@
+.form-group {
+    margin: 40px;
+    display: inline-block;
+}
+
+#tables {
+    margin-left: 40px;
+    width: auto;
+}
+
+#corpo {
+    background-color: rgb(252, 250, 243);
+    color: black;
+}
+
+#gravar {
+
+}
+
+#excluir {
+
+}
+
+#alterar {
+
+}
